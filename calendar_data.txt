@@ -1,0 +1,9 @@
+{
+  "2024-03-15": [
+    "Prepare presentation",
+    "Meeting with John"
+  ],
+  "2024-03-16": [
+    "Grocery shopping"
+  ]
+}
