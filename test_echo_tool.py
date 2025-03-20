@@ -1,4 +1,5 @@
 import unittest
+import mcp
 from echo_tool import echo_tool
 
 class TestEchoTool(unittest.TestCase):
